@@ -19,3 +19,6 @@ intruksi praktikum
 3 Menambahkan Inline CSS
 
 ![menambahkan inline css](no3.PNG)
+
+4 Membuat CSS Eksternal
+![Membuat CSS Eksternal]()
