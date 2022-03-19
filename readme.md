@@ -21,8 +21,10 @@ intruksi praktikum
 ![menambahkan inline css](no3.PNG)
 
 4 Membuat CSS Eksternal
+
 ![Membuat CSS Eksternal](no4.PNG)
 
 5 Menambahkan CSS Selector
-![menambahkan css selector]()
+
+![menambahkan css selector](no5.PNG)
 
