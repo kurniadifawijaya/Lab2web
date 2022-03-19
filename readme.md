@@ -16,3 +16,6 @@ intruksi praktikum
 
 ![mendeklarasikan css intel](no2.PNG)
 
+3 Menambahkan Inline CSS
+
+![menambahkan inline css](no3.PNG)
